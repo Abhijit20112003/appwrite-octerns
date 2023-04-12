@@ -1,0 +1,22 @@
+{
+  "name": "create-add-on-package-ui-helper-libraries-abhijit20112003",
+  "version": "1.0.0",
+  "description": "ui library for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appwrite-octernship/create-add-on-package-ui-helper-libraries-Abhijit20112003.git"
+  },
+  "author": "Abhijit",
+  "license": "AFL-3.0",
+  "bugs": {
+    "url": "https://github.com/appwrite-octernship/create-add-on-package-ui-helper-libraries-Abhijit20112003/issues"
+  },
+  "homepage": "https://github.com/appwrite-octernship/create-add-on-package-ui-helper-libraries-Abhijit20112003#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
